@@ -1,3 +1,3 @@
-![TrackHubs](../public/logo.png)
+![TrackHubs](logo.png)
 
 # Software Development Company
